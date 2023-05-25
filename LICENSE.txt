@@ -1,0 +1,5 @@
+Program: Bode Plot Generator
+Author: Jacob Simons
+Date Published: August 7, 2022
+
+All rights reserved.
